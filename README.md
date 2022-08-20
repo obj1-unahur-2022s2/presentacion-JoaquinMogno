@@ -1,36 +1,51 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+Hola! Bienvenidos al perfil de 
+###Joaquin Mogno :wave:
+![foto personal](/home/joaquin/Descargas/fotoPersonal.jpg)
 
-Bienvenidos a
-# Programación con objetos I
+## Algunos de mis datos personales son: :sunglasses:
+* 19 años de edad.
+* Juego lo futbol en un club de futsal, perteneciente a la liga Metropolitana de Futsal :soccer:
+* Lugar de residencia: Villa Luro, CABA
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+## Datos academicos: :smiley:
+* Estudio en la UNAHUR desde 2021
+* Colegio secundario: Sacratísimo Corazón de Jesús. Con titulo en Bachiller en Administración Contable
+  
+## Cuento con 9 de 19 materias aprobadas de la tecnicatura en Programación las cuales son:
+- [x] Matematica para informatica 1
+- [x] Introduccion a la logica y problemas computacionales
+- [x] Organizacion de computadoras 1
+- [x] Nuevos entornos
+- [x] Taller de marcado y tecnologias web
+- [x] programacion estructurada
+- [x] matematica para informatica 2
+- [ ] ingles 1
+- [x] bases de datos
+- [ ] programacion con objetos 1
+- [ ] estructura de datos
+- [ ] materia UNAHUR
+- [ ] programacion con objetos 2
+- [ ] electiva 1
+- [x] electiva 2 (Redes de computadoras)
+- [ ] ingles 2
+- [ ] construccion de interfacesd e usuario
+- [ ] Estrategias de persistencia
+- [ ] Elementos de ingenieria de software
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **noche**: Martes 18hs.
-* Horario comisión **tarde**: Jueves 14hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo y Matías Müller
+## Algunos de mis conocimientos
+* Word, Excel y powepoint Basico
+* Bases de datos Practico (PostgreSQL, HeidiSQL)
+* Linux Básico
+* Git basico
+* Ingles Basico
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1FTLWZ96uVd8V1xNkm2wvaUHhfS9MiC_LEomQYwJhI6I/edit#gid=1006593733) de clases.
-- [x] [Matricularse](https://discord.gg/RnAwZsSwdw) y ver el canal de Discord.
-- [x] [Clase de consulta](https://meet.google.com/ova-hohx-gzf) de los sábados 15 a 17 hs.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+## Gustos
+* Mis hobbies son jugar al futbol, salir con amigos y con mi pareja
+* Soy simpatizante de Independiente y de General Lamadrid, un club perteneciente a la primera C
+* Mi gusto musical favorita es el rock nacional y el trap
+* Algunas de mis peliculas/series favoritas son: Breaking Bad, Prison Break, Shrek, Rapidos y furiosos, Volver al futuro
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+## Referencias Markdown 
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+* [Emojis](https://gist.github.com/rxaviers/7360908)
