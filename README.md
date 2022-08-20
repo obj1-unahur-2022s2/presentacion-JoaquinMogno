@@ -1,6 +1,6 @@
 Hola! Bienvenidos al perfil de 
 ###Joaquin Mogno :wave:
-![foto personal](/home/joaquin/Descargas/fotoPersonal.jpg)
+![foto personal](/home/joaquin/Descargas/fotoPersonal.JPG)
 
 ## Algunos de mis datos personales son: :sunglasses:
 * 19 años de edad.
