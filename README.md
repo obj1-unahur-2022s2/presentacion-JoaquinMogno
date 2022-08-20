@@ -1,5 +1,6 @@
 Hola! Bienvenidos al perfil de 
-###Joaquin Mogno :wave:
+# Joaquin Mogno :wave:
+
 ![foto personal](./fotoPersonal.jpg)
 
 ## Algunos de mis datos personales son: :sunglasses:
